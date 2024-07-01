@@ -1,4 +1,4 @@
-# triton-first-time
+# triton-symexe
 
 My personal storage for triton code I wrote for the first time.
 
